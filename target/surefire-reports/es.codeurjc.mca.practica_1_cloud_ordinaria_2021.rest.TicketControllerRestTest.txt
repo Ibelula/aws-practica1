@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.codeurjc.mca.practica_1_cloud_ordinaria_2021.rest.TicketControllerRestTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.463 s - in es.codeurjc.mca.practica_1_cloud_ordinaria_2021.rest.TicketControllerRestTest

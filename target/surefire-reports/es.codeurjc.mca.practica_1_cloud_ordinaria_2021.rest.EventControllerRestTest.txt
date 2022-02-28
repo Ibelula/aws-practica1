@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.codeurjc.mca.practica_1_cloud_ordinaria_2021.rest.EventControllerRestTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.18 s - in es.codeurjc.mca.practica_1_cloud_ordinaria_2021.rest.EventControllerRestTest

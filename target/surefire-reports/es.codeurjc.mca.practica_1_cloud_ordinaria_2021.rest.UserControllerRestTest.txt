@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.codeurjc.mca.practica_1_cloud_ordinaria_2021.rest.UserControllerRestTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.049 s - in es.codeurjc.mca.practica_1_cloud_ordinaria_2021.rest.UserControllerRestTest
